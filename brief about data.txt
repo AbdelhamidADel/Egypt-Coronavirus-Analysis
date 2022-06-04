@@ -1,0 +1,14 @@
+
+New Cases                                                    285355
+New Death                                                     16623
+New Recovered                                                234224
+
+Total Cases                                                72250048
+
+Total Recoverd                                             54454359
+Total Death                                                 4102478
+Active Cases                                               13693211
+
+
+
+percentage =75.36930494496004, 5.678166469868643, 18.952528585171322
